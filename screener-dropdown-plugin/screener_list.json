@@ -1,0 +1,122 @@
+[
+      {
+        "value": "52w_high",
+        "label": "52w High"
+    },
+      {
+        "value": "52w_low",
+        "label": "52w Low"
+    },
+    {
+        "value": "accounts_payables_annual",
+        "label": "Accounts Payables (Annual) - Balance Sheet"
+    },
+    {
+        "value": "accounts_payables_quarter",
+        "label": "Accounts Payables (Quarter) - Balance Sheet"
+    },
+    {
+        "value": "accounts_payables_ttm",
+        "label": "Accounts Payables (TTM) - Balance Sheet"
+    },
+    {
+        "value": "assets_non_current_ttm",
+        "label": "Assets Non-Current (TTM) - Others"
+    },
+    {
+        "value": "book_value_per_share",
+        "label": "Book Value per Share - Valuation Multiples"
+    },
+    {
+        "value": "business_acquisitions_disposals_annual",
+        "label": "Business Acquisitions and Disposals (Annual) - Cash Flow Statement Highlights"
+    },
+    {
+        "value": "business_acquisitions_disposals_quarter",
+        "label": "Business Acquisitions and Disposals (Quarter) - Cash Flow Statement Highlights"
+    },
+    {
+        "value": "business_acquisitions_disposals_ttm",
+        "label": "Business Acquisitions and Disposals (TTM) - Cash Flow Statement Highlights"
+    },
+    {
+        "value": "capex_growth_1y_percent_annual",
+        "label": "Capex Growth (1y) % (Annual) - Growth Metrics"
+    },
+    {
+        "value": "capex_growth_1y_percent_quarter",
+        "label": "Capex Growth (1y) % (Quarter) - Growth Metrics"
+    },
+    {
+        "value": "capex_growth_1y_percent_ttm",
+        "label": "Capex Growth (1y) % (TTM) - Growth Metrics"
+    },
+    {
+        "value": "capex_growth_3y_cagr_percent_annual",
+        "label": "Capex Growth (3y CAGR) % (Annual) - Growth Metrics"
+    },
+    {
+        "value": "capex_growth_3y_cagr_percent_quarter",
+        "label": "Capex Growth (3y CAGR) % (Quarter) - Growth Metrics"
+    },
+    {
+        "value": "capex_growth_3y_cagr_percent_ttm",
+        "label": "Capex Growth (3y CAGR) % (TTM) - Growth Metrics"
+    },
+    {
+        "value": "capex_growth_5y_cagr_percent_annual",
+        "label": "Capex Growth (5y CAGR) % (Annual) - Growth Metrics"
+    },
+    {
+        "value": "capex_growth_5y_cagr_percent_quarter",
+        "label": "Capex Growth (5y CAGR) % (Quarter) - Growth Metrics"
+    },
+    {
+        "value": "capex_growth_5y_cagr_percent_ttm",
+        "label": "Capex Growth (5y CAGR) % (TTM) - Growth Metrics"
+    },
+    {
+        "value": "capex_growth_qoq_bps_quarter",
+        "label": "Capex Growth QoQ (bps) (Quarter) - Growth Metrics"
+    },
+    {
+        "value": "capex_growth_qoq_bps_ttm",
+        "label": "Capex Growth QoQ (bps) (TTM) - Growth Metrics"
+    },
+    {
+        "value": "capex_as_percent_revenue_annual",
+        "label": "Capex as a % of Revenue (Annual) - Others"
+    },
+    {
+        "value": "capex_as_percent_revenue_quarter",
+        "label": "Capex as a % of Revenue (Quarter) - Others"
+    },
+    {
+        "value": "capex_as_percent_revenue_ttm",
+        "label": "Capex as a % of Revenue (TTM) - Others"
+    },
+    {
+        "value": "capital_employed_annual",
+        "label": "Capital Employed (Annual) - Others"
+    },
+    {
+        "value": "capital_employed_quarter",
+        "label": "Capital Employed (Quarter) - Others"
+    },
+    {
+        "value": "capital_employed_ttm",
+        "label": "Capital Employed (TTM) - Others"
+    },
+    {
+        "value": "capital_expenditure_minus1_annual",
+        "label": "Capital Expenditure (-1) (Annual) - Cash Flow Statement Highlights"
+    },
+    {
+        "value": "capital_expenditure_minus1_quarter",
+        "label": "Capital Expenditure (-1) (Quarter) - Cash Flow Statement Highlights"
+    },
+    {
+        "value": "capital_expenditure_minus1_ttm",
+        "label": "Capital Expenditure (-1) (TTM) - Cash Flow Statement Highlights"
+    }
+]	
